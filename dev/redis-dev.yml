@@ -1,0 +1,4 @@
+redis:
+  port: 6983
+  name: zhouzongbo
+  password: zhouzongbo
